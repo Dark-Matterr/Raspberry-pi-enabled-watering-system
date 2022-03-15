@@ -10,6 +10,6 @@ https://user-images.githubusercontent.com/27999234/158292110-b267e921-ae4c-4b02-
 
 ## Readings of the Soil Moisture
 
-![readings](readings/08-21-2020.PNG) 
+![readings](Readings/08-21-2020.png) 
 
 
